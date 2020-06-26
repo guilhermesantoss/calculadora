@@ -9,7 +9,7 @@
 
 ## Sobre o projeto
 
-Calculadora criado no curso [React + Redux](https://www.udemy.com/course/react-redux-pt/) da plataforma Udemy.
+Calculadora criada no curso [React + Redux](https://www.udemy.com/course/react-redux-pt/) da plataforma Udemy.
 
 ## Executando o projeto
 
