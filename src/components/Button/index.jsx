@@ -1,7 +1,7 @@
 import React from 'react';
-import './Button.css';
+import './styles.css';
 
-export default props => {
+const Button = props => {
   let classes = 'button ';
   classes += props.operation ? 'operation' : '';
   classes += props.double ? 'double' : '';
@@ -17,3 +17,4 @@ export default props => {
   );
 }
   
+export default Button;
