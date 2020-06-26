@@ -1,4 +1,4 @@
-<h1>Calculadora</h1>
+# Calculadora
 
 <p>
   <img src="https://img.shields.io/github/repo-size/guilhermesantoss/calculadora" alt="Repository Size" />
