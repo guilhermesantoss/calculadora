@@ -29,7 +29,7 @@ docker build -f Dockerfile -t guilhermesantoss/calculadora:latest .
 
 ## Executando a imagem
 ```bash
-docker run -d -p 8080:3000 --name calculadora guilhermesantoss/calculadora:1.0.0-1
+docker run -d -p 8080:3000 --name calculadora guilhermesantoss/calculadora:latest
 ```
 
 ## Acessando a aplicação rodando em um container docker
