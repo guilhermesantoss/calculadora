@@ -1,11 +1,12 @@
-# Calculadora
+<h1 align="center">Calculadora</h1>
 
-<p>
-  <img src="https://img.shields.io/github/repo-size/guilhermesantoss/calculadora" alt="Repository Size" />
-  <img src="https://img.shields.io/github/last-commit/guilhermesantoss/calculadora" alt="Last Commit" />
-  <img src="https://img.shields.io/github/languages/count/guilhermesantoss/calculadora?color=red" alt="Languages Used" />
-  <img src="https://img.shields.io/github/license/guilhermesantoss/calculadora?color=yellow" alt="License" />
-</p> 
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/guilhermesantoss/calculadora?style=for-the-badge&color=darkblue" alt="Repository Size" />
+  <img src="https://img.shields.io/github/last-commit/guilhermesantoss/calculadora?style=for-the-badge&color=darkblue" alt="Last Commit" />
+  <img src="https://img.shields.io/github/languages/count/guilhermesantoss/calculadora?style=for-the-badge&color=darkblue" alt="Languages Used" />
+  <img src="https://img.shields.io/github/license/guilhermesantoss/calculadora?style=for-the-badge&color=darkblue" alt="License" />
+</p>
+
 
 ## Sobre o projeto
 
