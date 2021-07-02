@@ -2,6 +2,7 @@
   "name": "calculadora",
   "version": "1.0.0",
   "private": true,
+  "author": "Guilherme Santos <g.santos.sfc@gmail.com>",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -15,6 +16,14 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": ">=12 <v14.17.0",
+    "npm": ">=5 <6.14.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermesantoss/calculadora"
   },
   "eslintConfig": {
     "extends": "react-app"

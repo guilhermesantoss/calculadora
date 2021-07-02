@@ -15,14 +15,25 @@ Calculadora criada no curso [React + Redux](https://www.udemy.com/course/react-r
 
 Entre na pasta "calculadora/" e instale as dependências do projeto utilizando o comando:
 ```bash
-$ npm install
+npm install
 ```
 
 Agora que as dependências estão devidamente instaladas, execute o projeto utilizando o comando:
 ```bash
-$ npm start
+npm start
+```
+## Buildando imagem docker
+```bash
+docker build -f Dockerfile -t guilhermesantoss/calculadora:latest .
 ```
 
+## Executando a imagem
+```bash
+docker run -d -p 8080:3000 --name calculadora guilhermesantoss/calculadora:1.0.0-1
+```
+
+## Acessando a aplicação rodando em um container docker
+**http://localhost:8080/**
 ## Tecnologias utilizadas
 
 * [React](https://reactjs.org/)
