@@ -11,7 +11,7 @@
 ## Sobre o projeto
 
 Calculadora criada no curso [React + Redux](https://www.udemy.com/course/react-redux-pt/) da plataforma Udemy.
-OBS: (refatorei ela para React Hooks com Typescript)
+OBS: (refatorei a aplicação usando React Hooks e Typescript)
 
 ## Executando o projeto
 
