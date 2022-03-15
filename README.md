@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/license/guilhermesantoss/calculadora?style=for-the-badge&color=darkblue" alt="License" />
 </p>
 
-
 ## Sobre o projeto
 
 Calculadora criada no curso [React + Redux](https://www.udemy.com/course/react-redux-pt/) da plataforma Udemy.
@@ -38,7 +37,10 @@ docker run -d -p 8080:80 --name calc calculadora
 **http://localhost:8080/**
 ## Tecnologias utilizadas
 
-* [React](https://reactjs.org/)
+* [React](https://reactjs.org)
+* [Styled-Components](https://styled-components.com)
+* [ESLint](https://eslint.org)
+* [Prettier](https://prettier.io)
 
 ## Licença
 
