@@ -1,7 +1,13 @@
-import React from 'react';
+import { Calculator } from './main';
+import { GlobalStyle } from './styles/global';
 
 function App() {
-  return <h1>Hello World!</h1>;
+  return (
+    <>
+      <Calculator />
+      <GlobalStyle />
+    </>
+  );
 }
 
 export default App;
