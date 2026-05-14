@@ -2,7 +2,7 @@ name: Deploy React App
 
 on:
   push:
-    branches: [ main ] # Altere para a sua branch principal
+    branches: [ main ]
 
 permissions:
   contents: read
@@ -35,8 +35,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Se usar Vite, mude para 'dist'. Se usar CRA, mude para 'build'.
-          path: './dist'
+          path: './build'
 
       - name: Deploy to GitHub Pages
         id: deployment
